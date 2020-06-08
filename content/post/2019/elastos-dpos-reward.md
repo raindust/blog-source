@@ -2,10 +2,10 @@
 title: "ELA的DPoS收益分配"
 date: 2019-08-18T22:13:08+08:00
 lastmod: 2019-08-18T22:13:08+08:00
-keywords: ["elastos", "DPoS", "ELA"]
+keywords: ["blockchain", "DPoS", "ELA"]
 description: ""
 tags: ["elastos", "DPoS", "ELA"]
-categories: ["elastos", "DPoS"]
+categories: ["blockchain"]
 ---
 
 # 收益发放时机
