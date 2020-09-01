@@ -10,7 +10,7 @@ categories: ["polkadot", "blockchain"]
 
 ## Cumulus是什么？
 
-相信了解Polkadot相关技术的人对Substrate一定不默认，那Cumulus是什么呢？Cumulus与Substrate一起构成了目前的Polkadot跨链开发工具包（英文为[Parachain Development Kit](https://wiki.polkadot.network/docs/en/build-pdk)简称PDK），它实际上是一个基于Substrate的扩展，可以方便地将一条Substrate链变成Polkadot的平行链（Parachain）。
+相信了解Polkadot相关技术的人对Substrate一定不陌生，那Cumulus是什么呢？Cumulus与Substrate一起构成了目前的Polkadot跨链开发工具包（英文为[Parachain Development Kit](https://wiki.polkadot.network/docs/en/build-pdk)简称PDK），它实际上是一个基于Substrate的扩展，可以方便地将一条Substrate链变成Polkadot的平行链（Parachain）。
 
 在本文中知道这么多就足够了，我会先带大家基于Cumulus构建一条Polkadot兼容的平行链，让大家有一个具体的印象。在建立了对Cumulus的基础印象之后，会在后续的文章里进一步介绍Cumulus的组成及基本原理等。
 
